@@ -8,6 +8,8 @@
 - 🌱 J'apprends actuellement l'administration système et le développement applicatif
 - ⚡ Fun fact: J'aime les chats !
 
+### Les technologies que j'utilise 🤖 : 
+
 <center> 
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
