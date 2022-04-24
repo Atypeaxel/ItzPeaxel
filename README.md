@@ -11,6 +11,6 @@
 
   <a href="#"><img src="https://img.shields.io/badge/Windows-MSI_Katana_GF76-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Intel-Core_i7_11800h-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white""></a>
+  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 </center>
 
