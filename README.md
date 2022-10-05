@@ -4,7 +4,7 @@
 
 ### Hey ! Bienvenue sur mon profil github ! 👋
 
-- 🔭 Je suis actuellement développeur pour Access Community
+- 🔭 Je suis actuellement etudiant en informatique, spécialement la cyber sécurite !
 - 🌱 J'apprends actuellement l'administration système et le développement applicatif
 - ⚡ Fun fact: J'aime les chats !
 
